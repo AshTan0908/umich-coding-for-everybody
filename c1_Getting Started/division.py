@@ -1,0 +1,5 @@
+inp_1=input('What is the dividend?: ')
+inp_2=input('What is the divisor?: ')
+divid=float(inp_1)
+divis=float(inp_2)
+print(divid,'/',divis,'=',divid/divis)
